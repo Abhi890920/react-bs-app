@@ -1,0 +1,82 @@
+[
+    {
+       "id": 1,
+       "name":"Williamson Stner",
+       "mage_url":"../img/img1.jpg",
+       "deginasion":"Web Developer",
+       "social": {
+           "fb":{
+               "icon":"fa-facebook",
+               "url": "https://www.facebook.com/Williamson"
+           },
+           "tw":{
+               "icon":"fa-twitter",
+               "url": "https://www.twitter.com/Williamson"
+            },
+            "in":{
+                "icon":"fa-instagram",
+                "url": "https://www.instagram.com/Williamson"
+             }
+        }
+    },
+    {
+        "id": 2,
+        "name":"Kristiana Doe",
+        "mage_url":"../img/img2.jpg",
+        "deginasion":"Web Designer",
+        "social": {
+            "fb":{
+                "icon":"fa-facebook",
+                "url": "https://www.facebook.com/Kristiana"
+            },
+            "tw":{
+                "icon":"fa-twitter",
+                "url": "https://www.twitter.com/Kristiana"
+             },
+             "in":{
+                 "icon":"fa-instagram",
+                 "url": "https://www.instagram.com/Kristiana"
+              }
+         }
+     },
+     {
+        "id": 3,
+        "name":"Steve Thomas",
+        "mage_url":"../img/img3.jpg",
+        "deginasion":"Office Admin",
+        "social": {
+            "fb":{
+                "icon":"fa-facebook",
+                "url": "https://www.facebook.com/Steve"
+            },
+            "tw":{
+                "icon":"fa-twitter",
+                "url": "https://www.twitter.com/Steve"
+             },
+             "in":{
+                 "icon":"fa-instagram",
+                 "url": "https://www.instagram.com/Steve"
+              }
+         }
+     },
+     {
+        "id": 3,
+        "name":" miranda joy",
+        "mage_url":"../img/img4.jpg",
+        "deginasion":"Game Developer",
+        "social": {
+            "fb":{
+                "icon":"fa-facebook",
+                "url": "https://www.facebook.com/miranda"
+            },
+            "tw":{
+                "icon":"fa-twitter",
+                "url": "https://www.twitter.com/miranda"
+             },
+             "in":{
+                "icon":"fa-instagram",
+                "url": "https://www.instagram.com/miranda"
+             }
+         }
+     }
+ ]
